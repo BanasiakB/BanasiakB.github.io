@@ -14,7 +14,7 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 In this project, I developed a predictive model using machine learning algorithms to forecast stock market trends. By analyzing historical data and employing advanced statistical techniques, I was able to achieve a high level of accuracy in predicting price movements.
 
-[View Project](https://github.com/johndoe/predictive-modeling)
+[View Project](https://github.com/BanasiakB/Pricer)
 
 ### 2. Sentiment Analysis of Social Media Data
 
