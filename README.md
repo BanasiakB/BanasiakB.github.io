@@ -1,4 +1,4 @@
-# Student of Applied Mathematics
+# Hi, I'm Bogdan Banasiak 
 
 ---
 
