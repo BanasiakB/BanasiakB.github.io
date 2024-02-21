@@ -1,4 +1,4 @@
-# Hi, I am glad to welcome you on my website!
+# Hello!
 
 ---
 
@@ -11,14 +11,14 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 ## Work Experience
 
-### - AIT
-lagasd ldkalskdalks lkdsalkd
+### - [AI Triangle](https://triangle.expert/)
+Part-time job where I worked as an analyst and software consultant for actuarial calculation.
 
-### - Credit Suisse
-lagasd ldkalskdalks lkdsalkd
+### - Data Sicentist in Credit Suisse
+It commenced with a 3-month internship, followed by a transition into a 3-month employment contract, all within the framework of the "Technology Analyst Program." Within this role, I operated as a Data Scientist, collaborating within international teams. During my tenure, my duties encompassed the development and refinement of a database integration algorithm earmarked for integration into one of our internal applications. Additionally, I spearheaded the development of applications aimed at optimizing the report generation process.
 
-### - Capgemini
-hejksjksdfkjnsf djkdflskjlfsdkjlsf dkjlsdf jklkjlfd
+### - Business Inteligence Intern in Capgemini
+During a 6-month internship period, I dedicated myself to refining my expertise in Python, Flask, Git, and Google Cloud Platform (GCP).
 ---
 
 ## Projects
