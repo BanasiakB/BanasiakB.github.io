@@ -28,8 +28,7 @@ I conducted sentiment analysis on a large dataset of social media posts to under
 
 [View Project](https://github.com/johndoe/sentiment-analysis)
 
-
---
+---
 
 ## Work Experience
 
