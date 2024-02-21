@@ -9,18 +9,6 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 ---
 
-## Work Experience
-
-### - [AI Triangle](https://triangle.expert/)
-Part-time job where I worked as an analyst and software consultant for actuarial calculation.
-
-### - Data Sicentist in Credit Suisse
-It commenced with a 3-month internship, followed by a transition into a 3-month employment contract, all within the framework of the "Technology Analyst Program." Within this role, I operated as a Data Scientist, collaborating within international teams. During my tenure, my duties encompassed the development and refinement of a database integration algorithm earmarked for integration into one of our internal applications. Additionally, I spearheaded the development of applications aimed at optimizing the report generation process.
-
-### - Business Inteligence Intern in Capgemini
-During a 6-month internship period, I dedicated myself to refining my expertise in Python, Flask, Git, and Google Cloud Platform (GCP).
----
-
 ## Projects
 
 ### 1. Predictive Modeling for Stock Market Trends
@@ -41,6 +29,18 @@ In this project, I applied optimization algorithms to improve the efficiency of 
 
 [View Project](https://github.com/johndoe/supply-chain-optimization)
 
+--
+
+## Work Experience
+
+### - [AI Triangle](https://triangle.expert/)
+Part-time job where I worked as an analyst and software consultant for actuarial calculation.
+
+### - Data Sicentist in Credit Suisse
+It commenced with a 3-month internship, followed by a transition into a 3-month employment contract, all within the framework of the "Technology Analyst Program." Within this role, I operated as a Data Scientist, collaborating within international teams. During my tenure, my duties encompassed the development and refinement of a database integration algorithm earmarked for integration into one of our internal applications. Additionally, I spearheaded the development of applications aimed at optimizing the report generation process.
+
+### - Business Intelligence Intern in Capgemini
+During a 6-month internship period, I dedicated myself to refining my expertise in Python, Flask, Git, and Google Cloud Platform (GCP).
 
 ---
 
@@ -56,7 +56,6 @@ In this project, I applied optimization algorithms to improve the efficiency of 
 
 ## Contact Me
 
-If you'd like to, you can also check my [linkedin](https://www.linkedin.com/in/bogdan-banasiak/) and kaggle.
-If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me at [b.banasiak2000@icloud.com](mailto:b.banasiak2000@icloud.com).
+If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me at [b.banasiak2000@icloud.com](mailto:b.banasiak2000@icloud.com) or at me [linkedin](https://www.linkedin.com/in/bogdan-banasiak/).
 
 Let's innovate together!
