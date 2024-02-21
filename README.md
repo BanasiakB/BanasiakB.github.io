@@ -11,23 +11,23 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 ## Projects
 
-### 1. Predictive Modeling for Stock Market Trends
+### 1. One day forecasting Modeling for Stock Market
 
 In this project, I developed a predictive model using machine learning algorithms to forecast stock market trends. By analyzing historical data and employing advanced statistical techniques, I was able to achieve a high level of accuracy in predicting price movements.
 
 [View Project](https://github.com/BanasiakB/Pricer)
 
-### 2. Pricer API
+### 2. Sentiment Analysis
+
+In this project, I applied optimization algorithms to improve the efficiency of supply chain networks. By minimizing costs and maximizing throughput, I was able to design optimal routes for transportation and distribution, resulting in significant savings for the company.
+
+[View Project](https://github.com/johndoe/supply-chain-optimization)
+### 3. Pricer API
 
 I conducted sentiment analysis on a large dataset of social media posts to understand public opinion on various topics. By leveraging natural language processing techniques, I was able to classify posts as positive, negative, or neutral, providing valuable insights for decision-making.
 
 [View Project](https://github.com/johndoe/sentiment-analysis)
 
-### 3. Optimization of Supply Chain Networks
-
-In this project, I applied optimization algorithms to improve the efficiency of supply chain networks. By minimizing costs and maximizing throughput, I was able to design optimal routes for transportation and distribution, resulting in significant savings for the company.
-
-[View Project](https://github.com/johndoe/supply-chain-optimization)
 
 --
 
