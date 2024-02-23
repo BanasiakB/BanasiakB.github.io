@@ -56,6 +56,6 @@ During a 6-month internship period, I dedicated myself to refining my expertise 
 
 ## Contact Me
 
-If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me at [b.banasiak2000@icloud.com](mailto:b.banasiak2000@icloud.com) or at me [linkedin](https://www.linkedin.com/in/bogdan-banasiak/).
+If you're interested in collaborating or discussing potential opportunities, feel free to reach out to me at [b.banasiak2000@icloud.com](mailto:b.banasiak2000@icloud.com) or at [linkedin](https://www.linkedin.com/in/bogdan-banasiak/).
 
 Let's innovate together!
