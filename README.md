@@ -11,22 +11,23 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 ## Projects
 
-### 1. One day forecasting Modeling for Stock Market
+### 1. One day forecasting Modeling for Stock Market API
 
-In this project, I developed a predictive model using machine learning algorithms to forecast stock market trends. By analyzing historical data and employing advanced statistical techniques, I was able to achieve a high level of accuracy in predicting price movements.
+This project involves the development of a predictive model utilizing both deep learning algorithms and fundamental time series methods to anticipate stock market trends. By analyzing historical data and employing statistical techniques, users can access an API where they can specify preferred methods and select the stocks they wish to forecast. Alongside numerical results for each method, the outputs are also presented graphically, enhancing user comprehension and providing a visually appealing interface for better insights.
 
-[View Project](https://github.com/BanasiakB/Pricer)
+[View Project](https://github.com/BanasiakB/Forecasting)
 
-### 2. Sentiment Analysis
+### 1. Sentiment Analysis
 
-In this project, I applied optimization algorithms to improve the efficiency of supply chain networks. By minimizing costs and maximizing throughput, I was able to design optimal routes for transportation and distribution, resulting in significant savings for the company.
+The program is capable of processing text from either a provided text file or directly from the terminal. Leveraging the powerful pipeline functionality provided by the Transformers module, the project maintains simplicity and clarity while offering robust sentiment analysis capabilities.
 
-[View Project](https://github.com/johndoe/supply-chain-optimization)
+[View Project](https://github.com/BanasiakB/Sentiment)
+
 ### 3. Pricer API
 
 I conducted sentiment analysis on a large dataset of social media posts to understand public opinion on various topics. By leveraging natural language processing techniques, I was able to classify posts as positive, negative, or neutral, providing valuable insights for decision-making.
 
-[View Project](https://github.com/johndoe/sentiment-analysis)
+[View Project](https://github.com/BanasiakB/Pricer)
 
 ---
 
