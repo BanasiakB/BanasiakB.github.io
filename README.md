@@ -17,7 +17,7 @@ This project involves the development of a predictive model utilizing both deep 
 
 [View Project](https://github.com/BanasiakB/Forecasting)
 
-### 1. Sentiment Analysis
+### 2. Sentiment Analysis
 
 The program is capable of processing text from either a provided text file or directly from the terminal. Leveraging the powerful pipeline functionality provided by the Transformers module, the project maintains simplicity and clarity while offering robust sentiment analysis capabilities.
 
@@ -25,7 +25,7 @@ The program is capable of processing text from either a provided text file or di
 
 ### 3. Pricer API
 
-I conducted sentiment analysis on a large dataset of social media posts to understand public opinion on various topics. By leveraging natural language processing techniques, I was able to classify posts as positive, negative, or neutral, providing valuable insights for decision-making.
+This project represents the culmination of my QuantScholarship at Credit Suisse. In this capacity, I developed an API written in F# to implement Monte Carlo and analytical pricing methodologies.
 
 [View Project](https://github.com/BanasiakB/Pricer)
 
