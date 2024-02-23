@@ -11,7 +11,7 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 ## Projects
 
-### 1. One day forecasting Modeling for Stock Market API
+### 1. One period forecasting for Stock Market API
 
 This project involves the development of a predictive model utilizing both deep learning algorithms and fundamental time series methods to anticipate stock market trends. By analyzing historical data and employing statistical techniques, users can access an API where they can specify preferred methods and select the stocks they wish to forecast. Alongside numerical results for each method, the outputs are also presented graphically, enhancing user comprehension and providing a visually appealing interface for better insights.
 
