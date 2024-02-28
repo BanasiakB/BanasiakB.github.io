@@ -15,7 +15,7 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 This project involves the development of a predictive model utilizing both deep learning algorithms and fundamental time series methods to anticipate stock market trends. By analyzing historical data and employing statistical techniques, users can access an API where they can specify preferred methods and select the stocks they wish to forecast. Alongside numerical results for each method, the outputs are also presented graphically, enhancing user comprehension and providing a visually appealing interface for better insights.
 
-[View Project](https://github.com/BanasiakB/Forecasting)
+[View Project](https://github.com/BanasiakB/ForecastingAPI)
 
 ### 2. Sentiment Analysis
 
