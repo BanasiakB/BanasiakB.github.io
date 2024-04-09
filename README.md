@@ -15,6 +15,7 @@ I am a passionate mathematician with a keen interest in applying mathematical pr
 
 Academical project which aims to develop a Wroclaw Real Estate Recommendation Tool utilizing big data and deep learning techniques. Key features include transportation analysis to crucial points in the city, property condition classification using CNN, NLP for announcement analysis, and price prediction through regression. PySpark optimization will ensure efficient data processing.
 
+[View Project](https://github.com/BanasiakB/WroclawRealEstateREC)
 
 ### 2. One period forecasting for BTC-USD API 
 
