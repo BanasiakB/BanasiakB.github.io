@@ -36,7 +36,7 @@ Contributing to the development of a function-calling system that integrates LLM
 
 ## Previous Projects
 
-### 🏠 [Real Estate Recommendation System – Wroclaw](https://github.com/BanasiakB/WroclawRealEstateREC) *(In Progress)*
+### 🏠 [Real Estate Recommendation System – Wroclaw](https://github.com/BanasiakB/WroclawRealEstateREC) <br>*(In Progress)*
 
 An academic project aimed at building a recommendation engine for Wroclaw real estate. Key features include:
 
@@ -46,23 +46,21 @@ An academic project aimed at building a recommendation engine for Wroclaw real e
 * Regression-based price prediction
 * PySpark for big data optimization
 
-### 📈 BTC-USD One-Period Forecasting API
+### 📈 [BTC-USD One-Period Forecasting API](https://github.com/BanasiakB/ForecastingAPI)
 
 Built a deep learning-based API for short-term BTC price prediction. Users can interact with the API to select forecasting methods, view numerical outputs, and interpret results through dynamic visualizations.
 
-[View Project](https://github.com/BanasiakB/ForecastingAPI)
 
-### 💬 Sentiment Analysis Tool
+### 💬 [Sentiment Analysis Tool](https://github.com/BanasiakB/Sentiment)
 
 A lightweight, Transformer-powered sentiment analysis tool. Accepts input via file or terminal and uses Hugging Face’s pipeline API for quick and accurate sentiment scoring.
 
-[View Project](https://github.com/BanasiakB/Sentiment)
+[View Project
 
-### 📉 Pricer API (F#)
+### 📉 [Pricer API (F#)](https://github.com/BanasiakB/Pricer)
 
 Developed during my QuantScholarship at Credit Suisse, this API applies Monte Carlo and analytical pricing methodologies for financial products.
 
-[View Project](https://github.com/BanasiakB/Pricer)
 
 ---
 
@@ -114,6 +112,37 @@ Developed and compared logistic regression models, the Massey method, and a hybr
 * GCP, AWS, GitLab CI/CD
 * Data Visualization & Communication
 
+You're absolutely right — adding more specificity to your **Skills** section will make it clearer and better aligned with your actual expertise, especially in modern ML workflows. Here's a revised and expanded version of your **Skills** section that integrates all the areas you mentioned:
+
+---
+
+## Skills
+
+* **Mathematical Modeling & Statistical Analysis**
+* **Machine Learning & Deep Learning**
+
+  * Special focus on **Large Language Models (LLMs)**, **RAG (Retrieval-Augmented Generation)**, and **Agentic AI**
+* **Natural Language Processing (NLP)**
+
+  * Sentiment analysis, prompt engineering, evaluation metrics, and LLM behavior analysis
+* **Software Engineering**
+
+  * Clean code practices, CI/CD pipelines (GitLab), API development using **FastAPI**, Dockerized apps
+* **Data Engineering & MLOps**
+
+  * Vector databases (Qdrant, vector Postgres), GCP (Cloud Run, Cloud Functions), AWS
+* **Tools & Technologies**
+
+  * Python, F#, Docker, SQL, Flask, LiteLLM, Jaeger, Git
+* **AI Productivity Tools**
+
+  * Experienced with AI-assisted development tools such as **Cursor** for enhanced productivity
+* **Data Visualization & Communication**
+
+  * Clear and insightful presentation of model outputs and analytical results for both technical and non-technical stakeholders
+
+
+
 ---
 
 ## Contact Me
@@ -121,7 +150,7 @@ Developed and compared logistic regression models, the Massey method, and a hybr
 I’m always open to collaboration, research, or new opportunities where mathematical precision and ML innovation intersect.
 
 📧 [b.banasiak2000@icloud.com](mailto:b.banasiak2000@icloud.com)
-🔗 [LinkedIn](#) *(Insert your LinkedIn profile link)*
+🔗 [LinkedIn](linkedin.com/in/bogdan-banasiak)
 
 **Let’s innovate together.**
 
