@@ -103,42 +103,20 @@ Developed and compared logistic regression models, the Massey method, and a hybr
 
 ## Skills
 
-* Mathematical Modeling & Statistical Analysis
-* Deep Learning & Large Language Models
-* Machine Learning & NLP
-* Data Engineering & MLOps
-* Optimization Techniques
-* Software Development (Python, F#, Docker, Flask)
-* GCP, AWS, GitLab CI/CD
-* Data Visualization & Communication
-
-You're absolutely right — adding more specificity to your **Skills** section will make it clearer and better aligned with your actual expertise, especially in modern ML workflows. Here's a revised and expanded version of your **Skills** section that integrates all the areas you mentioned:
-
----
-
-## Skills
-
 * **Mathematical Modeling & Statistical Analysis**
 * **Machine Learning & Deep Learning**
-
-  * Special focus on **Large Language Models (LLMs)**, **RAG (Retrieval-Augmented Generation)**, and **Agentic AI**
+  * Special focus on Large Language Models, RAG, and Agentic AI
 * **Natural Language Processing (NLP)**
-
   * Sentiment analysis, prompt engineering, evaluation metrics, and LLM behavior analysis
 * **Software Engineering**
-
-  * Clean code practices, CI/CD pipelines (GitLab), API development using **FastAPI**, Dockerized apps
+  * Clean code practices, CI/CD pipelines (GitLab), API development using FastAPI and Flask, Dockerized apps
 * **Data Engineering & MLOps**
-
-  * Vector databases (Qdrant, vector Postgres), GCP (Cloud Run, Cloud Functions), AWS
+  * Vector databases (Qdrant, vector Postgres), Cloud solutions (GCP and AWS), Neptune
 * **Tools & Technologies**
-
-  * Python, F#, Docker, SQL, Flask, LiteLLM, Jaeger, Git
+  * Python, R, F#, Docker, SQL, LiteLLM, Jaeger, Git
 * **AI Productivity Tools**
-
-  * Experienced with AI-assisted development tools such as **Cursor** for enhanced productivity
+  * Experienced with AI-assisted development tools such as Cursor for enhanced productivity
 * **Data Visualization & Communication**
-
   * Clear and insightful presentation of model outputs and analytical results for both technical and non-technical stakeholders
 
 
