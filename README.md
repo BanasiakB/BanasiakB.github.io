@@ -12,25 +12,25 @@ Currently, I’m working as an ML Engineer at [Deepsense.ai](https://deepsense.a
 
 ## Recent Projects
 
-### 🧪 Multimodal LLM for Drug Discovery – [Deepsense.ai Case Study](https://deepsense.ai/case-studies/enhancing-in-silico-drug-discovery-with-a-multimodal-llm/)
+### 🛠️ Ragbits – Open Source Contributor
 
-Contributed to experimental research on integrating Graphormer architectures with multimodal LLMs to enhance molecular understanding in drug discovery pipelines. My role involved running feasibility experiments, testing model training on in-house infrastructure, and supporting foundational research.
+Actively developing [Ragbits](https://ragbits.deepsense.ai/), a modular RAG and Agent framework built by Deepsense.ai. My role involves hands-on feature development, code contributions, and providing ongoing feedback to guide functionality improvements and future roadmap decisions based on practical use cases.
 
-### 🧠 LLM Personalization & Radicalization Detection
+### 🔗 Agent-Based Knowledge API System
 
-Participated in an internal research project focused on exploring self-radicalization and personality adaptation in large language models (LLMs). I was solely responsible for the end-to-end machine learning workflow, including synthetic dataset generation, model training, experiment design, and optimization. The evaluation pipeline integrated a variety of techniques such as embedding distance metrics, LLM-based classification, and LLM-as-a-Judge frameworks. I also developed specialized tools, including a speech destruction recognizer and a question-answer coherence evaluator, to assess model behavior across personalized and radicalized outputs. Although the research did not lead to publication, the project significantly deepened my expertise in LLM evaluation, safety, and behavioral alignment.
+Contributing to the development of a function-calling system that integrates LLMs with client APIs to act as an intelligent knowledge base. The solution incorporates principles of Agentic AI, enabling dynamic tool usage and, in the future, autonomous decision-making capabilities. My responsibilities include building custom API integration tools, designing and deploying infrastructure on GCP (Cloud Run, Cloud Functions, vector Postgres), and setting up CI/CD pipelines using GitLab. The system leverages frameworks like LiteLLM and Ragbits to support modular, scalable, and production-ready agentic workflows.
 
 ### 📄 Foundation-Specific RAG System
 
 Designed and deployed a fully functional Retrieval-Augmented Generation (RAG) system for a nonprofit foundation. Built using [Ragbits](https://ragbits.deepsense.ai/), Qdrant, and AWS infrastructure, the solution ingested PDFs directly from the client’s website and offered scalable deployment via Docker. Included full observability with integrated Jaeger tracing.
 
-### 🛠️ Ragbits – Open Source Contributor
+### 🧠 LLM Personalization & Radicalization Detection
 
-Actively developing [Ragbits](https://ragbits.deepsense.ai/), a modular RAG and agent framework built by Deepsense.ai. My role involves hands-on feature development, code contributions, and providing ongoing feedback to guide functionality improvements and future roadmap decisions based on practical use cases.
+Participated in an internal research project focused on exploring self-radicalization and personality adaptation in large language models (LLMs). I was solely responsible for the end-to-end machine learning workflow, including synthetic dataset generation, model training, experiment design, and optimization. The evaluation pipeline integrated a variety of techniques such as embedding distance metrics, LLM-based classification, and LLM-as-a-Judge frameworks. I also developed specialized tools, including a speech destruction recognizer and a question-answer coherence evaluator, to assess model behavior across personalized and radicalized outputs. Although the research did not lead to publication, the project significantly deepened my expertise in LLM evaluation, safety, and behavioral alignment.
 
-### 🔗 Agent-Based Knowledge API System
+### 🧪 Multimodal LLM for Drug Discovery – [Deepsense.ai Case Study](https://deepsense.ai/case-studies/enhancing-in-silico-drug-discovery-with-a-multimodal-llm/)
 
-Contributing to the development of a function-calling system that integrates LLMs with client APIs to act as an intelligent knowledge base. The solution incorporates principles of Agentic AI, enabling dynamic tool usage and, in the future, autonomous decision-making capabilities. My responsibilities include building custom API integration tools, designing and deploying infrastructure on GCP (Cloud Run, Cloud Functions, vector Postgres), and setting up CI/CD pipelines using GitLab. The system leverages frameworks like LiteLLM and Ragbits to support modular, scalable, and production-ready agentic workflows.
+Contributed to experimental research on integrating Graphormer architectures with multimodal LLMs to enhance molecular understanding in drug discovery pipelines. My role involved running feasibility experiments, testing model training on in-house infrastructure, and supporting foundational research.
 
 ---
 
@@ -73,17 +73,17 @@ Developed during my QuantScholarship at Credit Suisse, this API applies Monte Ca
   * GCP-based ML system deployment
   * Open-source contributor to Ragbits
 
-* **Data Scientist, Credit Suisse**
+* **Analyst & Consultant, AI Triangle** *(since December 2023)*
+
+  * Part-time role focused on actuarial pricing and analysis
+    
+* **Data Scientist, Credit Suisse** *(March - August 2023)*
 
   * Developed a database integration algorithm within the Technology Analyst Program
   * Built tools to automate report generation
   * Worked with international teams on large-scale internal applications
 
-* **Analyst & Consultant, AI Triangle**
-
-  * Part-time role focused on actuarial pricing and analysis
-
-* **BI Intern, Capgemini**
+* **BI Intern, Capgemini** *(June 2022 - February 2023)*
 
   * Gained hands-on experience with Flask, Git, GCP, and Python development during a 9-month internship
 
@@ -119,8 +119,6 @@ Developed and compared logistic regression models, the Massey method, and a hybr
 * **Data Visualization & Communication**
   * Clear and insightful presentation of model outputs and analytical results for both technical and non-technical stakeholders
 
-
-
 ---
 
 ## Contact Me
@@ -128,9 +126,9 @@ Developed and compared logistic regression models, the Massey method, and a hybr
 I’m always open to collaboration, research, or new opportunities where mathematical precision and ML innovation intersect.
 
 📧 [b.banasiak2000@icloud.com](mailto:b.banasiak2000@icloud.com)
-🔗 [LinkedIn](linkedin.com/in/bogdan-banasiak)
+🔗 [LinkedIn](https://linkedin.com/in/bogdan-banasiak)
 
-**Let’s innovate together.**
+**Let’s innovate together! 🚀**
 
 
 
