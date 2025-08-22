@@ -28,7 +28,8 @@ The system includes components such as:
 * Domain Database for handling complex queries,
 * Full tracing (complete visibility of user queries and system responses),
 * Evaluation pipeline to automatically validate system performance.
-It runs on Google Cloud Platform (Cloud Run, Cloud SQL with pgvector) and leverages LiteLLM and Ragbits to enable scalable, production-ready agentic workflows.
+
+The system is deployed on Google Cloud Platform (Cloud Run, Cloud SQL with pgvector) and leverages LiteLLM, enabling the use of multiple models from different providers, as well as Ragbits, which supports asynchronous execution for efficient, scalable, and production-ready agentic workflows.
 
 My responsibilities included:
 
