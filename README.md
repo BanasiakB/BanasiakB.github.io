@@ -18,7 +18,23 @@ Actively developing [Ragbits](https://ragbits.deepsense.ai/), a modular RAG and 
 
 ### 🔗 Agent-Based Knowledge API System
 
-Contributing to the development of a function-calling system that integrates LLMs with client APIs to act as an intelligent knowledge base. The solution incorporates principles of Agentic AI, enabling dynamic tool usage and, in the future, autonomous decision-making capabilities. My responsibilities include building custom API integration tools, designing and deploying infrastructure on GCP (Cloud Run, Cloud Functions, vector Postgres), and setting up CI/CD pipelines using GitLab. The system leverages frameworks like LiteLLM and Ragbits to support modular, scalable, and production-ready agentic workflows.
+I have been contributing to the design and development of an advanced multi-agent system that acts as an intelligent knowledge base powered entirely by client data. The system answers questions and derives insights based solely on information provided via client APIs, including text, tabular, and visual data, ensuring accuracy and reliability. 
+
+The system includes components such as:
+
+* Function Calling and Text2SQL for natural language query handling,
+* Image analysis via LLMs as an integral part of answering questions,
+* Hallucination detection mechanisms to improve response reliability,
+* Domain Database for handling complex queries,
+* Full tracing (complete visibility of user queries and system responses),
+* Evaluation pipeline to automatically validate system performance.
+It runs on Google Cloud Platform (Cloud Run, Cloud SQL with pgvector) and leverages LiteLLM and Ragbits to enable scalable, production-ready agentic workflows.
+
+My responsibilities included:
+
+* contributing to the design and implementation of key agent components along with prompt engineering,
+* building and maintaining infrastructure on GCP and configuring CI/CD pipelines (GitLab),
+* developing the evaluation pipeline to monitor and validate system performance.
 
 ### 📄 Foundation-Specific RAG System
 
@@ -55,7 +71,6 @@ Built a deep learning-based API for short-term BTC price prediction. Users can i
 
 A lightweight, Transformer-powered sentiment analysis tool. Accepts input via file or terminal and uses Hugging Face’s pipeline API for quick and accurate sentiment scoring.
 
-[View Project
 
 ### 📉 [Pricer API (F#)](https://github.com/BanasiakB/Pricer)
 
