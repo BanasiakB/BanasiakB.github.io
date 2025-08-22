@@ -21,7 +21,6 @@ Actively developing [Ragbits](https://ragbits.deepsense.ai/), a modular RAG and 
 I have been contributing to the design and development of an advanced multi-agent system that acts as an intelligent knowledge base powered entirely by client data. The system answers questions and derives insights based solely on information provided via client APIs, including text, tabular, and visual data, ensuring accuracy and reliability. 
 
 The system includes components such as:
-
 * Function Calling and Text2SQL for natural language query handling,
 * Image analysis via LLMs as an integral part of answering questions,
 * Hallucination detection mechanisms to improve response reliability,
@@ -32,7 +31,6 @@ The system includes components such as:
 The system is deployed on Google Cloud Platform (Cloud Run, Cloud SQL with pgvector) and leverages LiteLLM, enabling the use of multiple models from different providers, as well as Ragbits, which supports asynchronous execution for efficient, scalable, and production-ready agentic workflows.
 
 My responsibilities included:
-
 * contributing to the design and implementation of key agent components along with prompt engineering,
 * building and maintaining infrastructure on GCP and configuring CI/CD pipelines (GitLab),
 * developing the evaluation pipeline to monitor and validate system performance.
